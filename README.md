@@ -377,6 +377,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [SkyOSINT](https://skyosint.io) - OSINT platform for intelligence gathering and analysis.
 - [DeadDrop](https://deaddrop.theosintconsultants.com/dashboard) - OSINT dashboard and investigation tool from The OSINT Consultants.
 - [30Tools](https://30tools.com/) - Collection of 30+ useful online tools for various OSINT and productivity tasks.
+- [Benchvale URL Encoder](https://benchvale.com/dev/url-encode) - Percent-encodes and decodes in the browser, showing encodeURI, encodeURIComponent and form encoding side by side.
 <br>
 
 [⇧ Top](#index)
